@@ -1,6 +1,6 @@
 status="";
 function setup(){
-    canvas = createCanvas(400,300);
+    canvas = createCanvas(400,240);
      canvas.center();
      video = createCapture(VIDEO);
      video.hide();
